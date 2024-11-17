@@ -4,7 +4,7 @@ return [
     [
         'title' => 'Joker: Folie à Deux',
         'description' => 'The sequel to the acclaimed Joker film, continuing the dark and twisted journey of Arthur Fleck.',
-        'thumb' => '',
+        'thumb' => 'https://www.ucicinemas.it/media/movie/m/2024/ov-joker-folie-a-deux.jpg',
         'date' => '2024-10-02',
         'director' => 'Todd Phillips',
         'country' => 'USA',
@@ -13,7 +13,7 @@ return [
     [
         'title' => 'Megalopolis',
         'description' => 'A sci-fi epic about a futuristic utopian city and the political battles that challenge its existence.',
-        'thumb' => '',
+        'thumb' => 'https://www.ucicinemas.it/media/movie/m/2024/ov-megalopolis.jpg',
         'date' => '2024-10-16',
         'director' => 'Francis Ford Coppola',
         'country' => 'USA',
@@ -22,7 +22,7 @@ return [
     [
         'title' => 'Smile 2',
         'description' => 'The cursed smiles return in this psychological horror, continuing the terrifying legacy of the first film.',
-        'thumb' => '',
+        'thumb' => 'https://www.ucicinemas.it/media/movie/m/2024/ov-smile-2.jpg',
         'date' => '2024-10-17',
         'director' => 'Parker Finn',
         'country' => 'USA',
@@ -31,7 +31,7 @@ return [
     [
         'title' => 'The Wild Robot',
         'description' => 'A family-friendly adventure where a robot learns to survive in the wilderness with the help of animals.',
-        'thumb' => '',
+        'thumb' => 'https://www.ucicinemas.it/media/movie/l/2024/sala-xl-il-robot-selvaggio.jpg',
         'date' => '2024-10-10',
         'director' => 'Chris Butler',
         'country' => 'USA',
@@ -40,7 +40,7 @@ return [
     [
         'title' => 'Venom: The Last Dance',
         'description' => 'Venom faces his greatest challenge yet, in a battle that could change his life forever.',
-        'thumb' => '',
+        'thumb' => 'https://www.ucicinemas.it/media/movie/m/2024/ov-venom-the-last-dance.jpg',
         'date' => '2024-10-24',
         'director' => 'Andy Serkis',
         'country' => 'USA',
@@ -49,7 +49,7 @@ return [
     [
         'title' => 'Terrifier 3',
         'description' => 'Art the Clown returns for more violent chaos on Christmas Eve in this third installment of the horror franchise.',
-        'thumb' => '',
+        'thumb' => 'https://www.ucicinemas.it/media/movie/l/2024/sala-xl-terrifier-3.jpg',
         'date' => '2024-11-07',
         'director' => 'Damien Leone',
         'country' => 'USA',
@@ -58,7 +58,7 @@ return [
     [
         'title' => 'Longlegs',
         'description' => 'A supernatural thriller about a mysterious serial killer evading the FBI.',
-        'thumb' => '',
+        'thumb' => 'https://www.ucicinemas.it/media/movie/l/2024/longlegs.png',
         'date' => '2024-10-31',
         'director' => 'Osgood Perkins',
         'country' => 'USA',
@@ -67,7 +67,7 @@ return [
     [
         'title' => 'Gladiator II',
         'description' => 'The epic sequel to Ridley Scott’s Gladiator, following the rise of a new hero in ancient Rome.',
-        'thumb' => '',
+        'thumb' => 'https://www.ucicinemas.it/media/movie/l/2024/sala-xl-il-gladiatore-ii.jpg',
         'date' => '2024-11-14',
         'director' => 'Ridley Scott',
         'country' => 'USA',
@@ -76,7 +76,7 @@ return [
     [
         'title' => 'Once Upon a Time in America',
         'description' => 'A remastered re-release of the classic crime film about a group of Jewish gangsters in New York.',
-        'thumb' => '',
+        'thumb' => 'https://www.ucicinemas.it/media/movie/l/2024/cera-una-volta-in-america-40-ann-2024.jpg',
         'date' => '2024-10-28',
         'director' => 'Sergio Leone',
         'country' => 'USA',
@@ -85,7 +85,7 @@ return [
     [
         'title' => 'Coraline',
         'description' => 'A remastered version of the beloved stop-motion animated film about a girl who discovers a parallel world.',
-        'thumb' => '',
+        'thumb' => 'https://www.ucicinemas.it/media/movie/l/2009/coraline-e-la-porta-magica-15-anniverario.png',
         'date' => '2024-10-31',
         'director' => 'Henry Selick',
         'country' => 'USA',
@@ -94,7 +94,7 @@ return [
     [
         'title' => 'Iddu - L\'ultimo padrino',
         'description' => 'A compelling crime drama about the capture of Italy’s most notorious Mafia boss.',
-        'thumb' => '',
+        'thumb' => 'https://www.ucicinemas.it/media/movie/l/2024/iddu-l-ultimo-padrino.jpg',
         'date' => '2024-11-10',
         'director' => 'Marco Bellocchio',
         'country' => 'Italy',
@@ -103,7 +103,7 @@ return [
     [
         'title' => 'Pathenope',
         'description' => 'A historical drama set in ancient Naples, exploring the city’s mythical origins.',
-        'thumb' => '',
+        'thumb' => 'https://www.ucicinemas.it/media/movie/l/2024/parthenope.png',
         'date' => '2024-10-24',
         'director' => 'Matteo Garrone',
         'country' => 'Italy',
@@ -112,7 +112,7 @@ return [
     [
         'title' => 'The Substance',
         'description' => 'A dark sci-fi thriller where a mysterious substance grants dangerous powers to those who consume it.',
-        'thumb' => '',
+        'thumb' => 'https://www.ucicinemas.it/media/movie/l/2024/the-substance.jpg',
         'date' => '2024-10-30',
         'director' => 'Coralie Fargeat',
         'country' => 'France',
@@ -121,7 +121,7 @@ return [
     [
         'title' => 'The Godfather - Part II',
         'description' => 'A re-release of the iconic second chapter of The Godfather saga, showcasing the rise of Michael Corleone.',
-        'thumb' => '',
+        'thumb' => 'https://www.ucicinemas.it/media/movie/m/1974/ov-the-godfather-part-ii-re-releas.jpg',
         'date' => '2024-11-04',
         'director' => 'Francis Ford Coppola',
         'country' => 'USA',
@@ -130,7 +130,7 @@ return [
     [
         'title' => 'Fino Alla Fine',
         'description' => 'A gritty Italian crime drama about loyalty and betrayal in the criminal underworld.',
-        'thumb' => '',
+        'thumb' => 'https://www.ucicinemas.it/media/movie/l/2024/fino-alla-fine.jpg',
         'date' => '2024-10-31',
         'director' => 'Gabriele Mainetti',
         'country' => 'Italy',
@@ -139,7 +139,7 @@ return [
     [
         'title' => 'Frankenstein Junior',
         'description' => 'A remastered version of the classic Mel Brooks comedy about a scientist and his monstrous creation.',
-        'thumb' => '',
+        'thumb' => 'https://www.ucicinemas.it/media/movie/l/2024/frankenstein-junior-4k-50-anniversario.jpg',
         'date' => '2024-10-29',
         'director' => 'Mel Brooks',
         'country' => 'USA',

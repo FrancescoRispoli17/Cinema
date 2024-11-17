@@ -14,9 +14,10 @@ return new class extends Migration
         Schema::create('theaters', function (Blueprint $table) {
             $table->id();
             $table->integer('number');
-            $table->integer('seats');
-            $table->boolean('confirmed');
+            $table->boolean('dolbyatmos');
             $table->boolean('XL');
+            $table->integer('lines');
+            $table->integer('seats');
             $table->timestamps();
         });
     }

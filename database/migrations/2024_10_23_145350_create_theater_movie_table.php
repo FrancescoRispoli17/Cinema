@@ -17,7 +17,8 @@ return new class extends Migration
             $table->foreignId('movie_id')->constrained()->cascadeOnDelete();
             $table->date('date');
             $table->time('time', $precision = 0);
-            $table->string('country',20);
+            $table->string('language',20);
+            $table->string('occupy')->nullable();
             $table->timestamps();
         });
     }
